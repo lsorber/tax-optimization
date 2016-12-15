@@ -1,0 +1,8 @@
+name: tax-optimization-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - anaconda
+  - html5lib
